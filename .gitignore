@@ -1,0 +1,22 @@
+# Build output
+build/
+hbsetting
+
+# Qt generated files
+*.o
+*.obj
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Makefile
+.qmake.stash
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Debug symbols
+*.debug
+core
